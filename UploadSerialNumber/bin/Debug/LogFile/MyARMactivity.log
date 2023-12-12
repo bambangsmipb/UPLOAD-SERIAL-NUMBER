@@ -1,0 +1,5 @@
+19/10/2019 18.00.58 -- ERROR -- : Number 5 Cannot open database "DEV_DC" requested by the login. The login failed.
+Login failed for user 'sa'.
+19/10/2019 18.26.26 -- ERROR -- : Number 5 A connection was successfully established with the server, but then an error occurred during the login process. (provider: SSL Provider, error: 0 - The semaphore timeout period has expired.)
+21/10/2019 10.21.22 -- ERROR -- : Number 5 Cannot open database "DEV_DC" requested by the login. The login failed.
+Login failed for user 'sa'.

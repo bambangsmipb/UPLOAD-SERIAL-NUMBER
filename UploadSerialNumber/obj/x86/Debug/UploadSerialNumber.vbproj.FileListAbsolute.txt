@@ -1,0 +1,226 @@
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.vbproj.ResolveComReference.cache
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\Upload Serial Number.exe
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\Upload Serial Number.xml
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\Upload Serial Number.pdb
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\bin\Debug\Upload Serial Number.exe
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\bin\Debug\Upload Serial Number.pdb
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\bin\Debug\Upload Serial Number.xml
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\bin\Debug\System.Net.Http.dll
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\bin\Debug\System.Net.Http.xml
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.FrmFind.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploaderTo.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.Form2.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.FrmMenux.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.FrmMenu.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.FrmLogin.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploaderlpb.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.Resources.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.vbproj.GenerateResource.Cache
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.vbprojResolveAssemblyReference.cache
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.vbproj.ResolveComReference.cache
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\obj\x86\Debug\Upload Serial Number.exe
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\obj\x86\Debug\Upload Serial Number.xml
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\obj\x86\Debug\Upload Serial Number.pdb
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\bin\Debug\Upload Serial Number.exe
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\bin\Debug\Upload Serial Number.pdb
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\bin\Debug\Upload Serial Number.xml
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\bin\Debug\System.Net.Http.dll
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\bin\Debug\System.Net.Http.xml
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.vbprojResolveAssemblyReference.cache
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.FrmFind.resources
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploaderTo.resources
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.Form2.resources
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.FrmMenu.resources
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.FrmLogin.resources
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploaderlpb.resources
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.Resources.resources
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.vbproj.GenerateResource.Cache
+D:\UPDATE SOURCECODE\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.Frmreturtoko.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.vbproj.ResolveComReference.cache
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\obj\x86\Debug\Upload Serial Number.exe
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\obj\x86\Debug\Upload Serial Number.xml
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\obj\x86\Debug\Upload Serial Number.pdb
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\bin\Debug\Upload Serial Number.exe
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\bin\Debug\Upload Serial Number.pdb
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\bin\Debug\Upload Serial Number.xml
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\bin\Debug\System.Net.Http.dll
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\bin\Debug\System.Net.Http.xml
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\obj\x86\Debug\UploadSN.FrmFind.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploaderTo.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\obj\x86\Debug\UploadSN.Form2.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\obj\x86\Debug\UploadSN.Frmreturtoko.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\obj\x86\Debug\UploadSN.FrmMenu.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\obj\x86\Debug\UploadSN.FrmLogin.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploaderlpb.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\obj\x86\Debug\UploadSN.Resources.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.vbproj.GenerateResource.Cache
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.vbproj.ResolveComReference.cache
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\obj\x86\Debug\Upload Serial Number.exe
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\obj\x86\Debug\Upload Serial Number.xml
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\obj\x86\Debug\Upload Serial Number.pdb
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\bin\Debug\Upload Serial Number.exe
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\bin\Debug\Upload Serial Number.pdb
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\bin\Debug\Upload Serial Number.xml
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\bin\Debug\System.Net.Http.dll
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\bin\Debug\System.Net.Http.xml
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\obj\x86\Debug\UploadSN.FrmFind.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploaderTo.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\obj\x86\Debug\UploadSN.Form2.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\obj\x86\Debug\UploadSN.Frmreturtoko.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\obj\x86\Debug\UploadSN.FrmMenu.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\obj\x86\Debug\UploadSN.FrmLogin.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploaderlpb.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\obj\x86\Debug\UploadSN.Resources.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.vbproj.GenerateResource.Cache
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.vbproj.ResolveComReference.cache
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\bin\Debug\System.Net.Http.dll
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\bin\Debug\System.Net.Http.xml
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\obj\x86\Debug\UploadSN.FrmFind.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploaderTo.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\obj\x86\Debug\UploadSN.Form2.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\obj\x86\Debug\UploadSN.Frmreturtoko.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\obj\x86\Debug\UploadSN.FrmMenu.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\obj\x86\Debug\UploadSN.FrmLogin.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploaderlpb.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\obj\x86\Debug\UploadSN.Resources.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.vbproj.GenerateResource.Cache
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\bin\Debug\UploadSerialNumber.exe
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\bin\Debug\UploadSerialNumber.pdb
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\bin\Debug\UploadSerialNumber.xml
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.exe
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.xml
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP - Copy (3)\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.pdb
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.vbproj.ResolveComReference.cache
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.exe
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.xml
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.pdb
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\bin\Debug\UploadSerialNumber.exe
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\bin\Debug\UploadSerialNumber.pdb
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\bin\Debug\UploadSerialNumber.xml
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\bin\Debug\System.Net.Http.dll
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\bin\Debug\System.Net.Http.xml
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.vbprojResolveAssemblyReference.cache
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\obj\x86\Debug\UploadSN.FrmFind.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUpmutasi.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploaderTo.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\obj\x86\Debug\UploadSN.Form2.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\obj\x86\Debug\UploadSN.Frmreturtoko.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\obj\x86\Debug\UploadSN.FrmMenu.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\obj\x86\Debug\UploadSN.FrmLogin.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploaderlpb.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\obj\x86\Debug\UploadSN.Resources.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.vbproj.GenerateResource.Cache
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.vbproj.ResolveComReference.cache
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.exe
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.xml
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\RevisiMinMax\obj\x86\Debug\UploadSerialNumber.pdb
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\Interop.ADODB.dll
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.vbproj.ResolveComReference.cache
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.exe
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.xml
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.pdb
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\bin\Debug\UploadSerialNumber.exe
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\bin\Debug\UploadSerialNumber.pdb
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\bin\Debug\UploadSerialNumber.xml
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\bin\Debug\System.Net.Http.dll
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\bin\Debug\System.Net.Http.xml
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmFind.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmUpmutasi.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.Frmupmutasidcout.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmUploaderTo.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.Form2.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.Frmreturtoko.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmMenu.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmLogin.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmUploaderlpb.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.Resources.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.vbproj.GenerateResource.Cache
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.Frmupmutasidcin.resources
+D:\UPDATE SOURCECODE\2. BELUM UAT\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.vbprojResolveAssemblyReference.cache
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\Interop.ADODB.dll
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.vbproj.ResolveComReference.cache
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.exe
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.xml
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.pdb
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\bin\Debug\UploadSerialNumber.exe
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\bin\Debug\UploadSerialNumber.pdb
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\bin\Debug\UploadSerialNumber.xml
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\bin\Debug\System.Net.Http.dll
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\bin\Debug\System.Net.Http.xml
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmFind.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmUpmutasi.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.Frmupmutasidcin.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.Frmupmutasidcout.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.Form2.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.Frmreturtoko.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmMenu.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmLogin.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmUploaderlpb.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.Resources.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.vbproj.GenerateResource.Cache
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\Interop.ADODB.dll
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.vbproj.ResolveComReference.cache
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.exe
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.xml
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.pdb
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\bin\Debug\UploadSerialNumber.exe
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\bin\Debug\UploadSerialNumber.pdb
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\bin\Debug\UploadSerialNumber.xml
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\bin\Debug\System.Net.Http.dll
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\bin\Debug\System.Net.Http.xml
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.vbprojResolveAssemblyReference.cache
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmFind.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmUpmutasi.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\UploadSN.Frmupmutasidcin.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\UploadSN.Frmupmutasidcout.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmUploaderTo.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\UploadSN.Form2.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\UploadSN.Frmreturtoko.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmMenu.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmLogin.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmUploaderlpb.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\UploadSN.Resources.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dcx\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.vbproj.GenerateResource.Cache
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.Frmretursupplier.resources
+D:\1 source code up to date\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.form4.resources
+D:\1 source code up to date v2\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\Interop.ADODB.dll
+D:\1 source code up to date v2\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.vbproj.ResolveComReference.cache
+D:\1 source code up to date v2\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.exe
+D:\1 source code up to date v2\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.xml
+D:\1 source code up to date v2\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.pdb
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\Interop.ADODB.dll
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.vbproj.ResolveComReference.cache
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.exe
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.xml
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.pdb
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\bin\Debug\UploadSerialNumber.exe
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\bin\Debug\UploadSerialNumber.pdb
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\bin\Debug\UploadSerialNumber.xml
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\bin\Debug\System.Net.Http.dll
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\bin\Debug\System.Net.Http.xml
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.vbprojResolveAssemblyReference.cache
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.form4.resources
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmFind.resources
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmUpmutasi.resources
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.Frmupmutasidcin.resources
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.Frmupmutasidcout.resources
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.Form2.resources
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.Frmreturtoko.resources
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmMenu.resources
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmLogin.resources
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.FrmUploaderlpb.resources
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.Resources.resources
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.vbproj.GenerateResource.Cache
+D:\1 april sorce code\UPLOAD SERIAL NUMBER ---SP mutasi dc to dc\UploadSerialNumber\obj\x86\Debug\UploadSN.Frmupto.resources
+D:\GITHUB_PB\UPLOAD SERIAL NUMBER\UploadSerialNumber\obj\x86\Debug\Interop.ADODB.dll
+D:\GITHUB_PB\UPLOAD SERIAL NUMBER\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.vbproj.ResolveComReference.cache
+D:\GITHUB_PB\UPLOAD SERIAL NUMBER\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.exe
+D:\GITHUB_PB\UPLOAD SERIAL NUMBER\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.xml
+D:\GITHUB_PB\UPLOAD SERIAL NUMBER\UploadSerialNumber\obj\x86\Debug\UploadSerialNumber.pdb

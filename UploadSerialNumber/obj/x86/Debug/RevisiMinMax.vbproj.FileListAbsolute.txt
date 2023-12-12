@@ -1,0 +1,144 @@
+D:\Users\Working Harder\Documents\Visual Studio 2010\Projects\RevisiMinMax\RevisiMinMax\bin\Debug\RevisiMinMax.exe
+D:\Users\Working Harder\Documents\Visual Studio 2010\Projects\RevisiMinMax\RevisiMinMax\bin\Debug\RevisiMinMax.pdb
+D:\Users\Working Harder\Documents\Visual Studio 2010\Projects\RevisiMinMax\RevisiMinMax\bin\Debug\RevisiMinMax.xml
+D:\Users\Working Harder\Documents\Visual Studio 2010\Projects\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.FrmUploader.resources
+D:\Users\Working Harder\Documents\Visual Studio 2010\Projects\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.Resources.resources
+D:\Users\Working Harder\Documents\Visual Studio 2010\Projects\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.SS.resources
+D:\Users\Working Harder\Documents\Visual Studio 2010\Projects\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.GenerateResource.Cache
+D:\Users\Working Harder\Documents\Visual Studio 2010\Projects\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.exe
+D:\Users\Working Harder\Documents\Visual Studio 2010\Projects\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.xml
+D:\Users\Working Harder\Documents\Visual Studio 2010\Projects\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.pdb
+D:\Users\Working Harder\Documents\Visual Studio 2010\Projects\RevisiMinMax\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\Users\Working Harder\Documents\Visual Studio 2010\Projects\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.ResolveComReference.cache
+D:\C\RevisiMinMax\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\C\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.ResolveComReference.cache
+D:\C\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.exe
+D:\C\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.xml
+D:\C\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.pdb
+D:\C\RevisiMinMax\RevisiMinMax\bin\Debug\RevisiMinMax.exe
+D:\C\RevisiMinMax\RevisiMinMax\bin\Debug\RevisiMinMax.pdb
+D:\C\RevisiMinMax\RevisiMinMax\bin\Debug\RevisiMinMax.xml
+D:\C\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbprojResolveAssemblyReference.cache
+D:\C\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.FrmUploader.resources
+D:\C\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.Resources.resources
+D:\C\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.SS.resources
+D:\C\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.GenerateResource.Cache
+D:\New folder (3)\RevisiMinMax\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\New folder (3)\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.ResolveComReference.cache
+D:\New folder (3)\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.exe
+D:\New folder (3)\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.xml
+D:\New folder (3)\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.pdb
+D:\RevisiMinMax\RevisiMinMax\bin\Debug\RevisiMinMax.exe
+D:\RevisiMinMax\RevisiMinMax\bin\Debug\RevisiMinMax.pdb
+D:\RevisiMinMax\RevisiMinMax\bin\Debug\RevisiMinMax.xml
+D:\RevisiMinMax\RevisiMinMax\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\RevisiMinMax\RevisiMinMax\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\RevisiMinMax\RevisiMinMax\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbprojAssemblyReference.cache
+D:\RevisiMinMax\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.ResolveComReference.cache
+D:\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.FrmUploader.resources
+D:\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.Resources.resources
+D:\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.SS.resources
+D:\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.GenerateResource.cache
+D:\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.CoreCompileInputs.cache
+D:\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.CopyComplete
+D:\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.exe
+D:\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.xml
+D:\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.pdb
+D:\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.ResolveComReference.cache
+D:\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.exe
+D:\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.xml
+D:\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.pdb
+D:\FEBRII\RevisiMinMax\RevisiMinMax\bin\Debug\RevisiMinMax.exe
+D:\FEBRII\RevisiMinMax\RevisiMinMax\bin\Debug\RevisiMinMax.pdb
+D:\FEBRII\RevisiMinMax\RevisiMinMax\bin\Debug\RevisiMinMax.xml
+D:\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbprojResolveAssemblyReference.cache
+D:\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.FrmUploader.resources
+D:\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.Resources.resources
+D:\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.SS.resources
+D:\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.GenerateResource.Cache
+D:\BELAJAR APLIKASI\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\BELAJAR APLIKASI\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.ResolveComReference.cache
+D:\BELAJAR APLIKASI\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.exe
+D:\BELAJAR APLIKASI\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.xml
+D:\BELAJAR APLIKASI\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.pdb
+D:\BELAJAR APLIKASI\FEBRII\RevisiMinMax\RevisiMinMax\bin\Debug\RevisiMinMax.exe
+D:\BELAJAR APLIKASI\FEBRII\RevisiMinMax\RevisiMinMax\bin\Debug\RevisiMinMax.pdb
+D:\BELAJAR APLIKASI\FEBRII\RevisiMinMax\RevisiMinMax\bin\Debug\RevisiMinMax.xml
+D:\BELAJAR APLIKASI\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbprojResolveAssemblyReference.cache
+D:\BELAJAR APLIKASI\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.FrmUploader.resources
+D:\BELAJAR APLIKASI\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.Resources.resources
+D:\BELAJAR APLIKASI\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.SS.resources
+D:\BELAJAR APLIKASI\FEBRII\RevisiMinMax\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.GenerateResource.Cache
+D:\BELAJAR APLIKASI\FEBRII\test app\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\BELAJAR APLIKASI\FEBRII\test app\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.ResolveComReference.cache
+D:\BELAJAR APLIKASI\FEBRII\test app\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.GenerateResource.Cache
+D:\BELAJAR APLIKASI\FEBRII\test app\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbprojResolveAssemblyReference.cache
+D:\BELAJAR APLIKASI\FEBRII\test app\RevisiMinMax\bin\Debug\UploadSN.exe
+D:\BELAJAR APLIKASI\FEBRII\test app\RevisiMinMax\bin\Debug\UploadSN.pdb
+D:\BELAJAR APLIKASI\FEBRII\test app\RevisiMinMax\bin\Debug\UploadSN.xml
+D:\BELAJAR APLIKASI\FEBRII\test app\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploader.resources
+D:\BELAJAR APLIKASI\FEBRII\test app\RevisiMinMax\obj\x86\Debug\UploadSN.Resources.resources
+D:\BELAJAR APLIKASI\FEBRII\test app\RevisiMinMax\obj\x86\Debug\UploadSN.exe
+D:\BELAJAR APLIKASI\FEBRII\test app\RevisiMinMax\obj\x86\Debug\UploadSN.xml
+D:\BELAJAR APLIKASI\FEBRII\test app\RevisiMinMax\obj\x86\Debug\UploadSN.pdb
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.ResolveComReference.cache
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO\RevisiMinMax\obj\x86\Debug\UploadSN.exe
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO\RevisiMinMax\obj\x86\Debug\UploadSN.xml
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO\RevisiMinMax\obj\x86\Debug\UploadSN.pdb
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO\RevisiMinMax\bin\Debug\UploadSN.exe
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO\RevisiMinMax\bin\Debug\UploadSN.pdb
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO\RevisiMinMax\bin\Debug\UploadSN.xml
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbprojResolveAssemblyReference.cache
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploader.resources
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO\RevisiMinMax\obj\x86\Debug\UploadSN.Resources.resources
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.GenerateResource.Cache
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.ResolveComReference.cache
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\UploadSN.exe
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\UploadSN.xml
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\UploadSN.pdb
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO - Copy\RevisiMinMax\bin\Debug\UploadSN.exe
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO - Copy\RevisiMinMax\bin\Debug\UploadSN.pdb
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO - Copy\RevisiMinMax\bin\Debug\UploadSN.xml
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbprojResolveAssemblyReference.cache
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploader.resources
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\UploadSN.Resources.resources
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.GenerateResource.Cache
+D:\BELAJAR APLIKASI\FEBRII\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\UploadSN.Form2.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.ResolveComReference.cache
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\UploadSN.exe
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\UploadSN.xml
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\UploadSN.pdb
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO - Copy\RevisiMinMax\bin\Debug\UploadSN.exe
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO - Copy\RevisiMinMax\bin\Debug\UploadSN.pdb
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO - Copy\RevisiMinMax\bin\Debug\UploadSN.xml
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbprojResolveAssemblyReference.cache
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploader.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\UploadSN.Form2.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\UploadSN.Resources.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO - Copy\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.GenerateResource.Cache
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\Interop.ADODB.dll
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.ResolveComReference.cache
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbprojResolveAssemblyReference.cache
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.Form2.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.FrmLogin.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.Resources.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\RevisiMinMax.vbproj.GenerateResource.Cache
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\bin\Debug\System.Net.Http.dll
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\bin\Debug\System.Net.Http.xml
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.FrmMenux.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploaderlpb.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.FrmUploaderTo.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.FrmMenu.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\UploadSN.FrmFind.resources
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\bin\Debug\Upload Serial Number.exe
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\bin\Debug\Upload Serial Number.pdb
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\bin\Debug\Upload Serial Number.xml
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\Upload Serial Number.exe
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\Upload Serial Number.xml
+D:\BELAJAR APLIKASI\FEBRII\TO\test app sn TO login\RevisiMinMax\obj\x86\Debug\Upload Serial Number.pdb
